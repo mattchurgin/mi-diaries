@@ -1,2 +1,9 @@
 *.scorer
 *.pbmm
+
+*.json
+*.txt
+
+*.wav
+*.m4a
+*.mp3
